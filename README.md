@@ -1,2 +1,2 @@
 # terraform
-My awesome codebase
+My awesome codebase, manual
